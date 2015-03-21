@@ -1,0 +1,15 @@
+name: Multicast
+main: com.floyd.bukkit.multicast.Multicast
+version: 1.12
+website: http://minecraft.atc.no/plugins
+author: FloydATC
+description: >
+             Send chat messages to groups of players
+commands:
+  multicast:
+    description: Send message to channel
+    usage: /<command> <ch> <message>  -OR-  /<ch> <message>
+  mc:
+    description: Send message to channel
+    usage: /<command> <ch> <message>  -OR-  /<ch> <message>
+
